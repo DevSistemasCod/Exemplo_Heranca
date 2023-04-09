@@ -32,7 +32,7 @@ public class ContaBancaria {
 		}
 	}
 	
-	@Override
+	
 	public String toString() {
 		return "ContaBancaria [nomeCliente=" + nomeCliente + ", numConta=" + numConta + ", saldo=" + saldo + "]";
 	}
